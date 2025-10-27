@@ -251,6 +251,9 @@ Este repositório não seria possível sem:
 
 ## 📊 Estatísticas do Repositório
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyr34x&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyr34x&show_icons=true&theme=transparent)
+
 ![GitHub Stats](https://img.shields.io/github/stars/username/repo?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/username/repo?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/username/repo)
