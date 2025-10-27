@@ -41,13 +41,13 @@ Seguindo uma metodologia progressiva desde fundamentos até técnicas avançadas
 ### ✅ Fase 1: Fundamentos (Completo)
 - [x] Redes e Protocolos (TCP/IP, HTTP, DNS)
 - [x] Sistemas Operacionais Linux (Kali Linux)
-- [x] Python para Segurança
-- [x] JavaScript Essencial para WebSec
+- [ ] Python para Segurança
+- [ ] JavaScript Essencial para WebSec
 
 ### 🔄 Fase 2: Web Security Fundamentals (Em Progresso - 65%)
-- [x] Arquitetura de Aplicações Web
-- [x] HTTP em Profundidade
-- [x] Autenticação e Autorização
+- [ ] Arquitetura de Aplicações Web
+- [ ] HTTP em Profundidade
+- [ ] Autenticação e Autorização
 - [ ] Session Management
 - [ ] CORS e Same-Origin Policy
 
